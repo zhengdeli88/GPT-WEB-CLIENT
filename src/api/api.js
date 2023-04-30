@@ -8,9 +8,9 @@ export const baseUrl = 'https://gpt.v-wim.xyz-a-s'
  * @LastEditTime: 2023-04-23 15:54:37
  * @FilePath: /chat_gpt/src/api/api.js
  */
-export const baseUrl = 'https://gpt.v-wim.xyz'
+export const baseUrl = 'https://ai4.163os.com/prod-api'
 // export const baseUrl = 'https://dychat.club/prod-api'
-export const wsUrl = 'wss://gpt.v-wim.xyz'
+export const wsUrl = 'wss://ai4.163os.com/wss'
 // export const wsUrl = 'wss://dychat.club/prod-api'
 
 // export const baseUrl = 'http://ee9qu3.natappfree.cc'
